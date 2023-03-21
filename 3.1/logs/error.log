@@ -1,3 +1,0 @@
-{"level":"error","message":"Error occured while adding 7 and NaN","service":"calculator-microservice"}
-{"level":"error","message":"Error occured while adding 7 and [object Undefined]","service":"calculator-microservice"}
-{"level":"error","message":"Error occured while adding 7 and NaN","service":"calculator-microservice"}

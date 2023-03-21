@@ -1,6 +1,0 @@
-{"level":"info","message":"Addition of 7 and 4 is 11","service":"calculator-microservice"}
-{"level":"info","message":"Addition of 7 and 16 is 23","service":"calculator-microservice"}
-{"level":"error","message":"Error occured while adding 7 and NaN","service":"calculator-microservice"}
-{"level":"error","message":"Error occured while adding 7 and [object Undefined]","service":"calculator-microservice"}
-{"level":"error","message":"Error occured while adding 7 and NaN","service":"calculator-microservice"}
-{"level":"info","message":"Addition of 7 and 16 is 23","service":"calculator-microservice"}
