@@ -1,0 +1,2 @@
+{"level":"error","message":"Error occured while adding NaN and NaN","service":"calculator-microservice"}
+{"level":"info","message":"Addition of 5 and 6 is 11","service":"calculator-microservice"}
